@@ -17,7 +17,7 @@ API接口调用平台，帮助企业、个人统一开放接口，减少沟通�
 
 架构图：
 
-![image-20230327153738330](/Users/dailongwang/IdeaProjects/study/api-backend-master/README.assets/image-20230327153738330.png)
+![image-20230327153738330](./README.assets/image-20230327153738330.png)
 
 技术选型：
 
