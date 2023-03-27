@@ -17,7 +17,7 @@ API接口调用平台，帮助企业、个人统一开放接口，减少沟通�
 
 架构图：
 
-![img](https://cbj-1302486078.cos.ap-nanjing.myqcloud.com/img/1671091690956-6eb1c6d1-07b3-4c12-9257-28b99e63cc52.png)
+![image-20230327153738330](/Users/dailongwang/IdeaProjects/study/api-backend-master/README.assets/image-20230327153738330.png)
 
 技术选型：
 
